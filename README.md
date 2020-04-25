@@ -1,1 +1,1 @@
-# capstone_498
+# Repo for collaborating on our Capstone project.
