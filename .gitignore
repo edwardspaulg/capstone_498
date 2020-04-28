@@ -1,0 +1,4 @@
+image_caption/Data/Flickr_8K/Images/
+image_caption/Data/Model/features_*.pkl
+image_caption/Data/Vectors/
+*.ipynb_checkpoints*
