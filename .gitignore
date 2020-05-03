@@ -1,5 +1,8 @@
 image_caption/Data/Flickr_8K/Images/
+image_caption/Data/Flickr_30K/Images/
 image_caption/Data/Model/features_*.pkl
 image_caption/Data/Vectors/
-image_caption/.ipynb_checkpoints/
+**/.ipynb_checkpoints/
 image_caption/Data/Model/results_*
+**/*.png
+**/*.hdf5
